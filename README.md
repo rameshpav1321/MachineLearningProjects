@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# machine_learning_projects
 ML projects during first semester of my Master's program.
 
 
